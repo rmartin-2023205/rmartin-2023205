@@ -64,13 +64,17 @@
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rmartin-2023205&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de Ricardo" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmartin-2023205&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+  <!-- Tarjeta de Estadísticas Generales -->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rmartin-2023205&show_icons=true&theme=tokyonight&locale=es&hide_border=false" alt="Estadísticas de Ricardo" />
+  
+  <!-- Tarjeta de Lenguajes Más Usados (con límite y sin timeouts) -->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmartin-2023205&layout=compact&theme=tokyonight&locale=es&langs_count=6" alt="Lenguajes más usados" />
 </div>
 
 <br/>
 
 <div align="center">
+  <!-- Racha de contribuciones -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rmartin-2023205&theme=tokyonight" alt="Racha en GitHub" />
 </div>
 

@@ -83,17 +83,17 @@
 ### 📬 Conéctate conmigo
 
 <div align="center">
+  <!-- Enlace a LinkedIn -->
   <a href="https://www.linkedin.com/in/ricardo-mart%C3%ADn-quich%C3%A9-005768349/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:martinricardo634@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <!-- Enlace directo a Gmail Web -->
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=martinricardo634@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=100&section=footer" width="100%"/>
-</div>
+<p align="center">
+  ✉️ <b>martinricardo634@gmail.com</b>
+</p>
